@@ -31,8 +31,11 @@ Fderated Learning Result:
  - HR = 0.6810730253353204
  - NDCG = 0.407131151183976
 
+
 ![client_1](./assets/IMG_Client_1.PNG)
 client 1 started by using `python client --cid 1`
+
+
 ![clients](./assets/IMG_Clients.PNG)
 cilent 2~9 started by using `run.sh`
 
